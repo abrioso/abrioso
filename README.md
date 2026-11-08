@@ -1,8 +1,8 @@
 # 👋 Hi, I'm André Kakoo Brioso
 
-**Director / Head of Information Technology** at [ISEG – Lisbon School of Economics & Management](https://www.iseg.ulisboa.pt), Universidade de Lisboa.
+**Director of Information Technology** at [ISEG – Lisbon School of Economics & Management](https://www.iseg.ulisboa.pt), Universidade de Lisboa.
 
-I lead IT strategy, infrastructure, and digital transformation for one of Portugal's top business schools. My background bridges **systems engineering** (IST) with **IT management in higher education** — a space where legacy constraints meet modern expectations.
+I lead IT strategy, infrastructure, and digital transformation for one of Portugal's top business schools. My background bridges **systems engineering** (Instituto Superior Técnico) with over a decade of **IT management in higher education** — a space where legacy constraints meet modern expectations.
 
 ## 🔧 What I work with
 
@@ -22,7 +22,6 @@ I lead IT strategy, infrastructure, and digital transformation for one of Portug
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abrioso/)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0004-4152-6428)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/abrioso)
 [![Website](https://img.shields.io/badge/Website-4285F4?style=flat&logo=googlechrome&logoColor=white)](https://abrioso.github.io)
 
 ---
